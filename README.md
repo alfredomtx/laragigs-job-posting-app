@@ -11,6 +11,7 @@ The main technologies are:
 - MySQL database
 - Tailwind CSS
 
+![Alt text](https://github.com/bradtraversy/laragigs/raw/main/public/images/screen.png)
 
 ## Usage
 
