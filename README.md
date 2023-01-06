@@ -5,6 +5,12 @@ It is my first contact with PHP's Laravel framework, and I was **really chocked*
 
 This project is from the YouTube "[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)" course.
 
+The main technologies are:
+- PHP 7.4
+- Laravel 9
+- MySQL database
+- Tailwind CSS
+
 
 ## Usage
 
