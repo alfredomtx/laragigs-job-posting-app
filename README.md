@@ -1,5 +1,7 @@
-# laragigs-job-posting
-A simple job posting app built with Laravel. It is my first contact with PHP's Laravel framework and I was really chocked on how amazing it is and how easy it makes building web applications.
+# 🐘 What is this project?
+It's a simple job posting app built with Laravel.
+
+It is my first contact with PHP's Laravel framework, and I was **really chocked** on how amazing the framework is and how easy it makes building web applications.
 
 This project is from the YouTube "[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)" course.
 
